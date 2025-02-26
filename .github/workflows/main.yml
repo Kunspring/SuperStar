@@ -1,4 +1,4 @@
-name: 刷课
+name: 刷课小脚本
  
 on: 
   push:
